@@ -1,10 +1,12 @@
+HTML
+
 - Je weet dat je HTML code kan schrijven in een .html bestand
 - Je weet dat de eerste pagina van je website altijd index.html is
 - Je weet dat HTML code in de browser wordt gerenderd als HTML elementen
 - Opslaan & refreshen
 - Je weet de syntax van HTML
 	- Opening tag
-	- Closing tag
+	- Closing tag (met een /)
 	- Attributen
 	- Self closing tags
 - Je kent een aantal veel voorkomende HTML elementen
@@ -20,3 +22,27 @@
     - head
     - body
 - Bonus doel: git gebruiken 
+
+CSS
+
+- Je weet dat je de kleur en layout van je pagina met CSS kan veranderen
+- Je weet dat dat je css schrijft in een .css bestand
+- Je weet hoe je je css moet verbinden aan je html pagina met een link element
+- Je weet de syntax van CSS
+	- Selector: h1, .secondary-header
+	- Style declaration: { }
+	- Style rule(s): color 
+	- Style value: red, #afafaf
+	- Semi colon ;(punt comma)
+- Je weet dat je de inspector kan gebruiken om je CSS te debuggen
+- Je weet dat je een specifiek element kan 
+  selecteren door een andere selector te gebruiken
+	- class
+	- id
+- Je weet hoe je een ander lettertype kan gebruiken (google fonts)
+- Je weet dat je de layout van de pagina kan veranderen met 
+	- Width
+	- Height
+	- Padding
+	- Margin
+

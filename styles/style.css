@@ -1,0 +1,47 @@
+/*
+    Comment
+*/
+
+/* 
+    Syntax
+
+    - Selector: h1
+    - Style declaration: { }
+    - Style rule: color
+    - Style value: fuchsia
+    - Semi colon ;(punt comma) 
+*/
+body {
+  background-color: #ddd0c2;
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  /* Wat vinden jullie van deze kleur? */
+  color: dodgerblue;
+  font-family: "Akaya Telivigala", cursive;
+  text-align: center;
+}
+
+p {
+  color: dodgerblue;
+  font-size: 16px;
+  width: 400px;
+  background-color: white;
+  padding: 20px;
+  margin: auto;
+}
+
+img {
+  width: 300px;
+  margin: 20px;
+}
+
+/* Class selector (met een . en dan de naam van de class) */
+/* .secondary-header {
+  color: fuchsia;
+} */
+
+/* #first-paragraph {
+  color: lavender;
+} */
