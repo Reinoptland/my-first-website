@@ -1,0 +1,17 @@
+- Je weet dat je HTML code kan schrijven in een .html bestand
+- Je weet dat de eerste pagina van je website altijd index.html is
+- Je weet dat HTML code in de browser wordt gerenderd als HTML elementen
+- Opslaan & refreshen
+- Je weet de syntax van HTML
+	- Opening tag
+	- Closing tag
+	- Attributen
+	- Self closing tags
+- Je kent een aantal veel voorkomende HTML elementen
+	- h1, h2
+	- p
+	- img
+	- a
+	- ul
+	- li
+- Bonus doel: git gebruiken 
