@@ -14,4 +14,9 @@
 	- a
 	- ul
 	- li
+- Standaard structuur
+    - Doctype
+    - html
+    - head
+    - body
 - Bonus doel: git gebruiken 
